@@ -2,7 +2,7 @@ name: miris-inc/fiftyone-demo-assets
 type: dataset
 author: Miris Inc.
 version: 1.0.0
-url: https://github.com/Miris-Inc/Fiftyone-Miris/tree/develop/dataset
+url: https://github.com/Miris-Inc/miris-fiftyone/tree/develop/dataset
 source: https://miris.com
 license: Apache-2.0
 description: >

@@ -16,7 +16,7 @@ Load it with::
 
     import fiftyone.zoo as foz
 
-    dataset = foz.load_zoo_dataset("Miris-Inc/Fiftyone-Miris")
+    dataset = foz.load_zoo_dataset("Miris-Inc/miris-fiftyone")
 """
 import json
 import os
