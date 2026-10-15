@@ -10,8 +10,8 @@ import fiftyone.zoo as foz
 import fiftyone as fo
 
 # Repo shorthand (resolves to the default branch). Or pass the full
-# https://github.com/Miris-Inc/Fiftyone-Miris URL.
-dataset = foz.load_zoo_dataset("Miris-Inc/Fiftyone-Miris")
+# https://github.com/Miris-Inc/miris-fiftyone URL.
+dataset = foz.load_zoo_dataset("Miris-Inc/miris-fiftyone")
 
 session = fo.launch_app(dataset)
 ```
