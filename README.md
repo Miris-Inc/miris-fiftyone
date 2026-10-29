@@ -48,7 +48,14 @@ FiftyOne core renders Miris streams natively via the first-class `MirisStream` f
 
 ## Getting Started
 
-See **[miris/README.md](miris/README.md)** for installation, configuration, and usage.
+See **[miris/README.md](miris/README.md)** for installation, configuration, and usage. You're welcome to fork, clone and experiment with the plugin.
+
+## Support
+
+- **Found a bug?** [Open an issue](https://github.com/Miris-Inc/miris-fiftyone/issues).
+- **Anything else:** email [support@miris.com](mailto:support@miris.com).
+
+We don't accept pull requests.
 
 ## License
 
